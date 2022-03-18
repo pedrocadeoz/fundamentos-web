@@ -1,0 +1,23 @@
+/*
+ESTILOS DA PÁGINA INDEX.HTML
+*/
+.center{ 
+    text-align: center;
+}
+.container{ 
+display: flex;
+flex-flow: row;
+justify-content: center;
+
+
+}
+
+
+
+
+
+
+/*
+ESTILOS DA PÁGINA CONTATO.HTML
+*/
+
